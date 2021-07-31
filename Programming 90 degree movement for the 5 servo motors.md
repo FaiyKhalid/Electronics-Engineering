@@ -1,4 +1,4 @@
-`
+```
 #include <Servo.h>
 
 Servo servo1; 
@@ -36,4 +36,4 @@ void loop() {
   }
 
 }
-`
+```
