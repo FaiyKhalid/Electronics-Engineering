@@ -30,7 +30,7 @@ $ int valA3;
 $ int valA4;
 ```
 
-### attaches the servo on pin 9 to the servo object
+### 5.attaches the servo on pin 9 to the servo object
 ```
 void setup() {
   S1.attach(10);  
@@ -40,10 +40,10 @@ void setup() {
   S5.attach(3);
 }
 ```
-### reads the value of the potentiometer (value between 0 and 1023)
-### scale it to use it with the servo (value between 0 and 180)
-### sets the servo position according to the scaled value
-### waits for the servo to get there
+### 6.reads the value of the potentiometer (value between 0 and 1023)
+### 7.scale it to use it with the servo (value between 0 and 180)
+### 8.sets the servo position according to the scaled value
+### 9.waits for the servo to get there
 
 ```
 void loop() {
