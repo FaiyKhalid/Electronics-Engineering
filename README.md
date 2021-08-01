@@ -5,3 +5,4 @@
 ### Program the circit to move at 90 degree [Done](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Programming%2090%20degree%20movement%20for%20the%205%20servo%20motors.md) 
 ### [Video For the 90-degree movement for five servo motors](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Moving%20the%20servo%20motors%2090%20degree.md)
 ### Program the servo motors to move using potentiometer [Done ](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Programming%205%20servo%20motors%20with%20potentiometer.md)
+### [Video For Moving the servo motors depanding on the variable resistors ](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Moving%20the%20servo%20motors%20depanding%20on%20the%20variable%20resistors.md)
