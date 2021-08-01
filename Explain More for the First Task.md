@@ -1,7 +1,7 @@
 ### First Requirement in this task is to design an electrical circuit that can control five servo motors 
 
 - By using Tinkercad I design a circuit that included 5 Servo Motors, 1 Arduino Uno, Wires 
-- I collect the Motors with the digital part in the Arduino 
+- I connected the Motors with the digital part in the Arduino 
 
 ### Second Requirement in this task is Programming the circuit to make the Motors move at a 90 degree
 
