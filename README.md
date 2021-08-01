@@ -7,3 +7,5 @@
 ### Program the servo motors to move using Variable Resistors (potentiometer) [Done ](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Programming%205%20servo%20motors%20with%20potentiometer.md)
 ### [Video For Moving the servo motors depending on the variable resistors ](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Moving%20the%20servo%20motors%20depanding%20on%20the%20variable%20resistors.md)
 
+# Task Two Steps 
+### Connect and Program a circuit can control the movement for 2 motors using H brage l298 [Done ](https://github.com/FaiyKhalid/Electronics-Engineering/blob/main/Video%20For%20H%20brage%20l298.md)
